@@ -124,7 +124,7 @@ func main() {
 		t := time.NewTimer(time.Second * 1)
 		<-t.C
 
-		fmt.Printf("length of ch is :%d", len(ch))
+		fmt.Printf("length of ch is :%d \n", len(ch))
 		// log.Logger.Info("种子通道含有的URL数量为（最多50）:" + string(len(ch)))
 		if len(ch) != 0 {
 			go func() {
@@ -132,7 +132,7 @@ func main() {
 			}()
 		}
 
-		fmt.Printf("length of ch_down is :%d", len(ch_down))
+		fmt.Printf("length of ch_down is :%d \n", len(ch_down))
 		if len(ch_down) != 0 {
 			go func() {
 				down_url := <-ch_down
