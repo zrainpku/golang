@@ -1,0 +1,15 @@
+WORKROOT('../../../')
+CopyUsingHardLink(True)
+CPPFLAGS('-D_GNU_SOURCE -D__STDC_LIMIT_MACROS -DVERSION=\\\"1.9.8.7\\\"')
+CFLAGS('-g -pipe -W -Wall -fPIC')
+CXXFLAGS('-g -pipe -W -Wall -fPIC')
+IDLFLAGS('--compack')
+UBRPCFLAGS('--compack')
+INCPATHS('. ./include ./output ./output/include')
+LDFLAGS('-lpthread -lcrypto -lrt')
+#download golang bin
+CONFIGS('baidu/go-env/go1-10-3-linux-amd64@go1-10-3-linux-amd64_1-0-2-1_PD_BL@git_tag')
+#download god bin
+CONFIGS('baidu/god-env/god-v0-6-0-linux-amd64@god-v0-6-0-linux-amd64_1-0-0-1_PD_BL@git_tag')
+user_sources=''
+user_headers=''
