@@ -42,13 +42,18 @@ func GetUrl(ch chan *Urls, ch_down chan string) {
 	defer resp.Body.Close()
 	body, _ := ioutil.ReadAll(resp.Body)
 	// reg := regexp.MustCompile(`((ht|f)tps?)://[w]{0,3}.baidu.com/link\?[a-zA-z=0-9-\s]*`)
-	reg := regexp.MustCompile(`href="((ht|f)tps?):.*?"`)
+	// reg := regexp.MustCompile(`href="((ht|f)tps?):.*?"`)
+	reg := regexp.MustCompile(`href="((ht|f)tps?):.*?pku.*?"`)
 	// f, _ := os.OpenFile("../data/url.data", os.O_CREATE|os.O_APPEND|os.O_RDWR, 0666)
 	// defer f.Close()
 	// fmt.Println("baidu.com page html:", body)
 	// f, _ := os.Create("../data/" + string(urlWritePath) + ".data")
 	// defer f.Close()
+	// for _, d := range reg.FindAllString(string(body), -1) {
 	for _, d := range reg.FindAllString(string(body), -1) {
+		// if _, ok := Hash[d]; ok {
+		// 	continue
+		// } 
 		if deepth <= 0 {
 			fmt.Println("这是最终地址，不能再爬取了，深度为0，url为：" + d)
 			num_all++

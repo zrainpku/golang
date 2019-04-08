@@ -24,3 +24,13 @@ test_2019/04/06 14:24:03 proc.go:195: 打印一条日志信息
 test_2019/04/06 14:24:27 proc.go:195: 打印一条日志信息
 test_2019/04/06 14:24:29 asm_amd64.s:2337: href="http://www.pku.org.cn/"
 test_2019/04/06 14:24:30 asm_amd64.s:2337: href="http://hr.pku.edu.cn/rczp/js/"
+test_2019/04/06 16:13:17 proc.go:195: 打印一条日志信息
+test_2019/04/06 16:13:19 asm_amd64.s:2337: href="http://www.pku.org.cn/"
+test_2019/04/06 16:15:15 proc.go:195: 打印一条日志信息
+test_2019/04/06 16:15:40 proc.go:195: 打印一条日志信息
+test_2019/04/06 16:15:45 proc.go:195: 打印一条日志信息
+test_2019/04/06 16:15:47 asm_amd64.s:2337: href="http://www.pku.org.cn/"
+test_2019/04/06 16:15:48 asm_amd64.s:2337: href="http://hr.pku.edu.cn/rczp/js/"
+test_2019/04/06 16:15:49 asm_amd64.s:2337: href="http://www.pkuef.org/pkuef/"
+test_2019/04/06 16:15:50 asm_amd64.s:2337: href="https://portal.pku.edu.cn/"
+test_2019/04/06 16:15:51 asm_amd64.s:2337: href="https://its.pku.edu.cn/"
