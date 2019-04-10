@@ -58,6 +58,7 @@ func saveUrl(url string){
 	// saveUrl(ans)
 }
 var hash map[string]byte
+var lock sync.Mutex
 
 func tempgetUrl(ch chan *urlbase.Urls, ch_down chan string) {
 	seed := <-ch
@@ -74,7 +75,7 @@ func tempgetUrl(ch chan *urlbase.Urls, ch_down chan string) {
 	loger.SetPrefix("test_deppth")
 	loger.Output(2, seed1)
 	loger.Output(2, string(deepth))
-	fmt.Printf("url深度为＝＝%d\n",deepth)
+	fmt.Printf("当前的url深度为: %d\n",deepth)
 	defer logFile.Close()
 
 	var num, num_all int
@@ -83,21 +84,25 @@ func tempgetUrl(ch chan *urlbase.Urls, ch_down chan string) {
 	defer resp.Body.Close()
 	body, _ := ioutil.ReadAll(resp.Body)
 	reg := regexp.MustCompile(`href="((ht|f)tps?):.*?pku.*?"`)
+	fmt.Printf("当前的种子URL: %s\n" , strings.Split(seed1, "\"")[1])
 	for _, d := range reg.FindAllString(string(body), -1) {
+		// lock.Lock()
 		if _, ok := hash[d]; ok {
 			continue
 		} 
-		if deepth <= 0 {
-			fmt.Println("这是最终地址，不能再爬取了，深度为0，url为：" + d)
-			num_all++
-			break
-		}
-		fmt.Printf("#############这是种子地址:%s\n ", d)
+		// lock.Unlock()
+		// if deepth <= 0 {
+		// 	fmt.Println("这是最终地址，不能再爬取了，深度为0，url为：" + d)
+		// 	num_all++
+		// 	break
+		// }
 		num_all++
 		num++
 		var url urlbase.Urls
 		url.Url = d
 		url.Depth = deepth - 1
+		fmt.Printf("抓取的URL为－: %s\n ", d)
+		fmt.Printf("深度为－: %d\n" , url.Depth)
 		loger.Output(2, url.Url)
 		loger.Output(2, string(url.Depth))
 		if url.Depth == 0 {
@@ -166,8 +171,8 @@ func main() {
 	fmt.Println(seedUrl)
 	maxDepth := cfig.Section.MaxDepth
 
-	ch := make(chan *urlbase.Urls, 1)
-	ch_down := make(chan string, 1)
+	ch := make(chan *urlbase.Urls, 10)
+	ch_down := make(chan string, 10)
 	var url urlbase.Urls
 	var waitGroup sync.WaitGroup
 	for _, ur := range seedUrl {
@@ -184,7 +189,10 @@ func main() {
 
 		fmt.Printf("length of ch is :%d \n", len(ch))
 		// log.Logger.Info("种子通道含有的URL数量为（最多50）:" + string(len(ch)))
-		if len(ch) != 0 {
+		if len(ch) ==0 && len(ch_down)==0 {
+			break
+		}
+		if len(ch) >0{
 			go func() {
 				// urlbase.GetUrl(ch, ch_down)
 				tempgetUrl(ch,ch_down)
@@ -192,17 +200,19 @@ func main() {
 		}
 
 		fmt.Printf("length of ch_down is :%d\n", len(ch_down))
-		if len(ch_down) != 0 {
-			go func() {
+		for len(ch_down) > 0 {
+			// go func() {
 				down_url := <-ch_down
 				loger.Output(2,down_url)
+				lock.Lock()
 				hash[down_url]=1
+				lock.Unlock()
 				fmt.Printf("length of hash all url is%d\n",len(hash))
 				saveUrl(down_url)
 				// log.Logger.Info("开始下载web:%s \n", string(down_url))
 				// pagebase.SaveHtml(down_url)
 				// log.Logger.Info("下载web完毕.%s \n", string(down_url))
-			}()
+			// }()
 
 		}
 	}

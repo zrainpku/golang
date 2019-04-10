@@ -3,59 +3,44 @@
 ["https://www.pku.edu.cn/"]
 length of ch is :1 
 length of ch_down is :0
-url深度为＝＝10
-#############这是种子地址:href="http://www.pku.org.cn/"
- #############这是种子地址:href="http://hr.pku.edu.cn/rczp/js/"
- #############这是种子地址:href="http://www.pkuef.org/pkuef/"
- #############这是种子地址:href="https://portal.pku.edu.cn/"
- #############这是种子地址:href="https://its.pku.edu.cn/"
- #############这是种子地址:href="http://bbs.pku.edu.cn/"
- #############这是种子地址:href="http://www.pku.org.cn/"
- #############这是种子地址:href="http://hr.pku.edu.cn/rczp/js/"
- #############这是种子地址:href="http://www.pkuef.org/pkuef/"
- #############这是种子地址:href="https://portal.pku.edu.cn/"
- #############这是种子地址:href="http://its.pku.edu.cn/"
- #############这是种子地址:href="http://mail.pku.edu.cn/"
- #############这是种子地址:href="http://bbs.pku.edu.cn/"
- #############这是种子地址:href="http://www.lib.pku.edu.cn/portal/"
- #############这是种子地址:href="http://english.pku.edu.cn/"
- #############这是种子地址:href="http://www.lib.pku.edu.cn/portal/"
- #############这是种子地址:href="http://english.pku.edu.cn/"
- #############这是种子地址:href="https://portal.pku.edu.cn/"
- #############这是种子地址:href="https://its.pku.edu.cn/"
- #############这是种子地址:href="http://www.pku.org.cn/"
- #############这是种子地址:href="http://bbs.pku.edu.cn/"
- #############这是种子地址:href="http://www.lib.pku.edu.cn/portal/"
- #############这是种子地址:href="http://hr.pku.edu.cn/rczp/js/"
- #############这是种子地址:href="http://www.pkuef.org/pkuef/"
- #############这是种子地址:href="http://english.pku.edu.cn/"
- #############这是种子地址:href="http://xxgk.pku.edu.cn/"
- #############这是种子地址:href="http://www.gotopku.cn/"
- #############这是种子地址:href="https://admission.pku.edu.cn"
- #############这是种子地址:href="http://www.isd.pku.edu.cn/"
- #############这是种子地址:href="http://www.oce.pku.edu.cn/"
- #############这是种子地址:href="http://gotopku.cn/programa/page/16.html"
- #############这是种子地址:href="http://grs.pku.edu.cn/jzgz/dtxx1/"
- #############这是种子地址:href="http://www.sfao.pku.edu.cn/"
- #############这是种子地址:href="http://summer.pku.edu.cn/"
- #############这是种子地址:href="http://www.oir.pku.edu.cn/summerschool/"
- #############这是种子地址:href="http://www.dean.pku.edu.cn/"
- #############这是种子地址:href="http://grs.pku.edu.cn/"
- #############这是种子地址:href="http://www.isd.pku.edu.cn/"
- #############这是种子地址:href="http://www.oce.pku.edu.cn/"
- #############这是种子地址:href="http://www.oir.pku.edu.cn/Category_35/Index.aspx"
- #############这是种子地址:href="http://dean.pku.edu.cn/tutorialclasses/"
- #############这是种子地址:href="http://dean.pku.edu.cn/englishcourses/"
- #############这是种子地址:href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
- #############这是种子地址:href="http://moocs.pku.edu.cn/"
- #############这是种子地址:href="http://course.pku.edu.cn/"
- #############这是种子地址:href="http://opencourse.pku.edu.cn/"
- #############这是种子地址:href="http://gnhz.pku.edu.cn/"
- #############这是种子地址:href="http://www.oir.pku.edu.cn/"
- #############这是种子地址:href="http://hmt.pku.edu.cn/"
- #############这是种子地址:href="http://www.hanban.pku.edu.cn/"
- #############这是种子地址:href="http://lecture.pku.edu.cn/"
- length of ch is :50 
-length of ch_down is :50
-#############这是种子地址:href="http://www.pku-hall.com/"
- url深度为＝＝9
+当前的url深度为: 10
+当前的种子URL: https://www.pku.edu.cn/
+抓取的URL为－: href="http://www.pku.org.cn/"
+ 深度为－: 9
+抓取的URL为－: href="http://hr.pku.edu.cn/rczp/js/"
+ 深度为－: 9
+抓取的URL为－: href="http://www.pkuef.org/pkuef/"
+ 深度为－: 9
+抓取的URL为－: href="https://portal.pku.edu.cn/"
+ 深度为－: 9
+抓取的URL为－: href="https://its.pku.edu.cn/"
+ 深度为－: 9
+抓取的URL为－: href="http://bbs.pku.edu.cn/"
+ 深度为－: 9
+抓取的URL为－: href="http://www.pku.org.cn/"
+ 深度为－: 9
+抓取的URL为－: href="http://hr.pku.edu.cn/rczp/js/"
+ 深度为－: 9
+抓取的URL为－: href="http://www.pkuef.org/pkuef/"
+ 深度为－: 9
+抓取的URL为－: href="https://portal.pku.edu.cn/"
+ 深度为－: 9
+抓取的URL为－: href="http://its.pku.edu.cn/"
+ 深度为－: 9
+length of ch is :10 
+length of ch_down is :10
+length of hash all url is1
+抓取的URL为－: href="http://mail.pku.edu.cn/"
+ 深度为－: 9
+当前的url深度为: 9
+当前的种子URL: http://www.pku.org.cn/
+抓取的URL为－: href="http://www.pku.edu.cn"
+ 深度为－: 8
+length of hash all url is2
+length of hash all url is3
+length of hash all url is4
+length of hash all url is5
+length of hash all url is6
+length of hash all url is6
+length of hash all url is6
+length of hash all url is6
