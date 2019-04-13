@@ -148,7 +148,11 @@ func tempgetUrl(ch chan *urlbase.Urls, ch_down chan string) {
 
 	// }
 	// defer resp.Body.Close()
-	body, _ := ioutil.ReadAll(resp.Body)
+	body, err1 := ioutil.ReadAll(resp.Body)
+	if err1 != nil{
+		return
+		// fmt.Println("ERROR!")
+	}
 	resp.Body.Close()
 	reg := regexp.MustCompile(`href="((ht|f)tps?):.*?"`)
 
@@ -157,14 +161,40 @@ func tempgetUrl(ch chan *urlbase.Urls, ch_down chan string) {
 	// fmt.Printf("当前的种子页面新的链接数为: %d\n" ,len(reg_ans))
 	
 	for _, d := range reg_ans {
+
+		check_pku := regexp.MustCompile(`.*?pku.*?`)
+	    check_ans_pku :=check_pku.FindAllString(d, -1)
+	    if len(check_ans_pku)==0{
+		    fmt.Printf("非官方网页 跳转\n")
+		    continue
+	    }
+
+	    check_pdf := regexp.MustCompile(`.*?\.pdf$`)
+	    check_ans_pdf :=check_pdf.FindAllString(d, -1)
+	    if len(check_ans_pdf)>0{
+		    fmt.Printf("pdf网页 跳转\n")
+		    continue
+	    }
+
+	    var idx_str int=strings.Index(d,"?")
+	    var dd string =d
+	    if idx_str>=0{
+	    	//save d    cmp dd
+	    	ddd :=  strings.Split(d,"?")
+	    	fmt.Printf("带问号的 left %s \n",ddd[0])
+	    	fmt.Printf("带问号的 right %s \n",ddd[1])
+	    	dd= ddd[0]
+	    }
+
 		f2,_ := os.OpenFile("../data/seed.txt",os.O_CREATE|os.O_APPEND|os.O_RDWR, 0666)
 		f3, _ := os.OpenFile("../data/ans.txt",os.O_APPEND|os.O_RDWR, 0666)
 		file2, _ := ioutil.ReadAll(f2)
 	    file3, _ := ioutil.ReadAll(f3)
-	    check2 := regexp.MustCompile(d)
-	    check3 := regexp.MustCompile(d)
+	    check2 := regexp.MustCompile(dd)
+	    check3 := regexp.MustCompile(dd)
 	    check_ans2 := check2.FindAllString(string(file2), -1)
 	    check_ans3 := check3.FindAllString(string(file3), -1)
+
 	    if len(check_ans3)==0 && len(check_ans2)==0{
 	    	fmt.Printf("新的种子URL: %s\n" ,d)
 	    	key2 := d + "\n"	
