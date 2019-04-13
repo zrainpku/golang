@@ -1,0 +1,470 @@
+test_deppth2019/04/12 10:01:44 mini_spider.go:237: "https://iaaa.pku.edu.cn/iaaa/oauth.jsp?appID=sgims&appName=北京大学北京大学学生综合信息管理系统&redirectUrl=http://fresh.pku.edu.cn/sgims/edu/pku/stu/portalApp/portalLogin.do%3fmodId=kxdlsqYJS%26urlRoot=stuAffair%26pt=2"
+test_deppth2019/04/12 10:01:44 mini_spider.go:237: 
+test_deppth2019/04/12 10:01:49 mini_spider.go:237: href="http://www.pku.edu.cn"
+test_deppth2019/04/12 10:01:49 mini_spider.go:237: 	
+test_deppth2019/04/12 10:02:15 mini_spider.go:237: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 10:02:15 mini_spider.go:237: 
+test_deppth2019/04/12 10:02:20 mini_spider.go:237: href="http://www.pku.org.cn/"
+test_deppth2019/04/12 10:02:20 mini_spider.go:237: 	
+test_deppth2019/04/12 10:02:25 mini_spider.go:237: href="http://hr.pku.edu.cn/rczp/js/"
+test_deppth2019/04/12 10:02:25 mini_spider.go:237: 	
+test_deppth2019/04/12 10:02:30 mini_spider.go:237: href="http://www.pkuef.org/pkuef/"
+test_deppth2019/04/12 10:02:30 mini_spider.go:237: 	
+test_deppth2019/04/12 10:02:35 mini_spider.go:237: href="https://portal.pku.edu.cn/"
+test_deppth2019/04/12 10:02:35 mini_spider.go:237: 	
+test_deppth2019/04/12 10:02:40 mini_spider.go:237: href="https://its.pku.edu.cn/"
+test_deppth2019/04/12 10:02:40 mini_spider.go:237: 	
+test_deppth2019/04/12 10:02:45 mini_spider.go:237: href="http://bbs.pku.edu.cn/"
+test_deppth2019/04/12 10:02:45 mini_spider.go:237: 	
+test_deppth2019/04/12 10:02:50 mini_spider.go:237: href="http://its.pku.edu.cn/"
+test_deppth2019/04/12 10:02:50 mini_spider.go:237: 	
+test_deppth2019/04/12 10:02:55 mini_spider.go:237: href="http://mail.pku.edu.cn/"
+test_deppth2019/04/12 10:02:55 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:00 mini_spider.go:237: href="http://www.lib.pku.edu.cn/portal/"
+test_deppth2019/04/12 10:03:00 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:05 mini_spider.go:237: href="http://www.bjmu.edu.cn/"
+test_deppth2019/04/12 10:03:05 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:10 mini_spider.go:237: href="http://english.pku.edu.cn/"
+test_deppth2019/04/12 10:03:10 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:15 mini_spider.go:237: href="http://xxgk.pku.edu.cn/"
+test_deppth2019/04/12 10:03:15 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:20 mini_spider.go:237: href="http://www.gotopku.cn/"
+test_deppth2019/04/12 10:03:20 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:25 mini_spider.go:237: href="https://admission.pku.edu.cn"
+test_deppth2019/04/12 10:03:25 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:30 mini_spider.go:237: href="http://www.isd.pku.edu.cn/"
+test_deppth2019/04/12 10:03:30 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:35 mini_spider.go:237: href="http://www.oce.pku.edu.cn/"
+test_deppth2019/04/12 10:03:35 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:40 mini_spider.go:237: href="http://gotopku.cn/programa/page/16.html"
+test_deppth2019/04/12 10:03:40 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:45 mini_spider.go:237: href="http://grs.pku.edu.cn/jzgz/dtxx1/"
+test_deppth2019/04/12 10:03:45 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:50 mini_spider.go:237: href="http://www.sfao.pku.edu.cn/"
+test_deppth2019/04/12 10:03:50 mini_spider.go:237: 	
+test_deppth2019/04/12 10:03:55 mini_spider.go:237: href="http://summer.pku.edu.cn/"
+test_deppth2019/04/12 10:03:55 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:00 mini_spider.go:237: href="http://www.oir.pku.edu.cn/summerschool/"
+test_deppth2019/04/12 10:04:00 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:05 mini_spider.go:237: href="http://www.dean.pku.edu.cn/"
+test_deppth2019/04/12 10:04:05 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:10 mini_spider.go:237: href="http://grs.pku.edu.cn/"
+test_deppth2019/04/12 10:04:10 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:15 mini_spider.go:237: href="http://www.oir.pku.edu.cn/Category_35/Index.aspx"
+test_deppth2019/04/12 10:04:15 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:20 mini_spider.go:237: href="http://dean.pku.edu.cn/tutorialclasses/"
+test_deppth2019/04/12 10:04:20 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:25 mini_spider.go:237: href="http://dean.pku.edu.cn/englishcourses/"
+test_deppth2019/04/12 10:04:25 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:30 mini_spider.go:237: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 10:04:30 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:35 mini_spider.go:237: href="http://moocs.pku.edu.cn/"
+test_deppth2019/04/12 10:04:35 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:40 mini_spider.go:237: href="http://course.pku.edu.cn/"
+test_deppth2019/04/12 10:04:40 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:45 mini_spider.go:237: href="http://opencourse.pku.edu.cn/"
+test_deppth2019/04/12 10:04:45 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:50 mini_spider.go:237: href="http://gnhz.pku.edu.cn/"
+test_deppth2019/04/12 10:04:50 mini_spider.go:237: 	
+test_deppth2019/04/12 10:04:55 mini_spider.go:237: href="http://www.oir.pku.edu.cn/"
+test_deppth2019/04/12 10:04:55 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:00 mini_spider.go:237: href="http://hmt.pku.edu.cn/"
+test_deppth2019/04/12 10:05:00 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:05 mini_spider.go:237: href="http://www.hanban.pku.edu.cn/"
+test_deppth2019/04/12 10:05:05 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:10 mini_spider.go:237: href="http://lecture.pku.edu.cn/"
+test_deppth2019/04/12 10:05:10 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:15 mini_spider.go:237: href="http://www.pku-hall.com/"
+test_deppth2019/04/12 10:05:15 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:20 mini_spider.go:237: href="https://mp.weixin.qq.com/s/t-SLNv7WJy8BmISMSTvWcA"
+test_deppth2019/04/12 10:05:20 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:25 mini_spider.go:237: href="http://news.pku.edu.cn/xwzh/80f1b5da8e4a4a2fb8c9ce332cc7394d.htm"
+test_deppth2019/04/12 10:05:25 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:30 mini_spider.go:237: href="http://news.pku.edu.cn/xwzh/c21d1c0fa6fc43d8b5fb2232a8141a6b.htm"
+test_deppth2019/04/12 10:05:30 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:35 mini_spider.go:237: href="http://pkunews.pku.edu.cn/"
+test_deppth2019/04/12 10:05:35 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:40 mini_spider.go:237: href="http://pkunews.pku.edu.cn/ymdy/../xxfz/2018-05/03/content_302399.htm"
+test_deppth2019/04/12 10:05:40 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:45 mini_spider.go:237: href="http://news.pku.edu.cn/"
+test_deppth2019/04/12 10:05:45 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:50 mini_spider.go:237: href="http://news.pku.edu.cn/jxky/index.htm"
+test_deppth2019/04/12 10:05:50 mini_spider.go:237: 	
+test_deppth2019/04/12 10:05:55 mini_spider.go:237: href="http://news.pku.edu.cn/mtbdnew/index.htm"
+test_deppth2019/04/12 10:05:55 mini_spider.go:237: 	
+test_deppth2019/04/12 10:06:00 mini_spider.go:237: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=294767"
+test_deppth2019/04/12 10:06:00 mini_spider.go:237: 	
+test_deppth2019/04/12 10:06:05 mini_spider.go:237: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=293389"
+test_deppth2019/04/12 10:06:05 mini_spider.go:237: 	
+test_deppth2019/04/12 10:06:10 mini_spider.go:237: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=242665"
+test_deppth2019/04/12 10:06:10 mini_spider.go:237: 	
+test_deppth2019/04/12 10:06:15 mini_spider.go:237: href="http://pkunews.pku.edu.cn/zdlm/node_137.htm"
+test_deppth2019/04/12 10:06:15 mini_spider.go:237: 	
+test_deppth2019/04/12 10:06:20 mini_spider.go:237: href="http://pkunews.pku.edu.cn/xycf/node_2576.htm"
+test_deppth2019/04/12 10:06:20 mini_spider.go:237: 	
+test_deppth2019/04/12 10:06:25 mini_spider.go:237: href="http://pkunews.pku.edu.cn/zt/node_1237.htm"
+test_deppth2019/04/12 10:06:25 mini_spider.go:237: 	
+test_deppth2019/04/12 10:06:40 mini_spider.go:237: href="http://fresh.pku.edu.cn/"
+test_deppth2019/04/12 10:06:40 mini_spider.go:237: 	
+test_deppth2019/04/12 10:06:55 mini_spider.go:237: href="http://biye.pku.edu.cn/"
+test_deppth2019/04/12 10:06:55 mini_spider.go:237: 	
+test_deppth2019/04/12 10:51:18 mini_spider.go:237: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 10:51:18 mini_spider.go:237: 
+test_deppth2019/04/12 10:51:23 mini_spider.go:237: href="http://www.pku.org.cn/"
+test_deppth2019/04/12 10:51:23 mini_spider.go:237: 	
+test_deppth2019/04/12 10:51:28 mini_spider.go:237: href="http://hr.pku.edu.cn/rczp/js/"
+test_deppth2019/04/12 10:51:28 mini_spider.go:237: 	
+test_deppth2019/04/12 10:51:33 mini_spider.go:237: href="http://www.pkuef.org/pkuef/"
+test_deppth2019/04/12 10:51:33 mini_spider.go:237: 	
+test_deppth2019/04/12 10:51:38 mini_spider.go:237: href="https://portal.pku.edu.cn/"
+test_deppth2019/04/12 10:51:38 mini_spider.go:237: 	
+test_deppth2019/04/12 10:51:43 mini_spider.go:237: href="https://its.pku.edu.cn/"
+test_deppth2019/04/12 10:51:43 mini_spider.go:237: 	
+test_deppth2019/04/12 10:51:48 mini_spider.go:237: href="http://bbs.pku.edu.cn/"
+test_deppth2019/04/12 10:51:48 mini_spider.go:237: 	
+test_deppth2019/04/12 10:51:53 mini_spider.go:237: href="http://its.pku.edu.cn/"
+test_deppth2019/04/12 10:51:53 mini_spider.go:237: 	
+test_deppth2019/04/12 10:51:58 mini_spider.go:237: href="http://mail.pku.edu.cn/"
+test_deppth2019/04/12 10:51:58 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:03 mini_spider.go:237: href="http://www.lib.pku.edu.cn/portal/"
+test_deppth2019/04/12 10:52:03 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:08 mini_spider.go:237: href="http://www.bjmu.edu.cn/"
+test_deppth2019/04/12 10:52:08 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:13 mini_spider.go:237: href="http://english.pku.edu.cn/"
+test_deppth2019/04/12 10:52:13 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:18 mini_spider.go:237: href="http://xxgk.pku.edu.cn/"
+test_deppth2019/04/12 10:52:18 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:23 mini_spider.go:237: href="http://www.gotopku.cn/"
+test_deppth2019/04/12 10:52:23 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:28 mini_spider.go:237: href="https://admission.pku.edu.cn"
+test_deppth2019/04/12 10:52:28 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:33 mini_spider.go:237: href="http://www.isd.pku.edu.cn/"
+test_deppth2019/04/12 10:52:33 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:38 mini_spider.go:237: href="http://www.oce.pku.edu.cn/"
+test_deppth2019/04/12 10:52:38 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:43 mini_spider.go:237: href="http://gotopku.cn/programa/page/16.html"
+test_deppth2019/04/12 10:52:43 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:48 mini_spider.go:237: href="http://grs.pku.edu.cn/jzgz/dtxx1/"
+test_deppth2019/04/12 10:52:48 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:54 mini_spider.go:237: href="http://www.sfao.pku.edu.cn/"
+test_deppth2019/04/12 10:52:54 mini_spider.go:237: 	
+test_deppth2019/04/12 10:52:59 mini_spider.go:237: href="http://summer.pku.edu.cn/"
+test_deppth2019/04/12 10:52:59 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:04 mini_spider.go:237: href="http://www.oir.pku.edu.cn/summerschool/"
+test_deppth2019/04/12 10:53:04 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:09 mini_spider.go:237: href="http://www.dean.pku.edu.cn/"
+test_deppth2019/04/12 10:53:09 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:14 mini_spider.go:237: href="http://grs.pku.edu.cn/"
+test_deppth2019/04/12 10:53:14 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:19 mini_spider.go:237: href="http://www.oir.pku.edu.cn/Category_35/Index.aspx"
+test_deppth2019/04/12 10:53:19 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:24 mini_spider.go:237: href="http://dean.pku.edu.cn/tutorialclasses/"
+test_deppth2019/04/12 10:53:24 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:29 mini_spider.go:237: href="http://dean.pku.edu.cn/englishcourses/"
+test_deppth2019/04/12 10:53:29 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:34 mini_spider.go:237: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 10:53:34 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:39 mini_spider.go:237: href="http://moocs.pku.edu.cn/"
+test_deppth2019/04/12 10:53:39 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:44 mini_spider.go:237: href="http://course.pku.edu.cn/"
+test_deppth2019/04/12 10:53:44 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:49 mini_spider.go:237: href="http://opencourse.pku.edu.cn/"
+test_deppth2019/04/12 10:53:49 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:54 mini_spider.go:237: href="http://gnhz.pku.edu.cn/"
+test_deppth2019/04/12 10:53:54 mini_spider.go:237: 	
+test_deppth2019/04/12 10:53:59 mini_spider.go:237: href="http://www.oir.pku.edu.cn/"
+test_deppth2019/04/12 10:53:59 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:04 mini_spider.go:237: href="http://hmt.pku.edu.cn/"
+test_deppth2019/04/12 10:54:04 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:09 mini_spider.go:237: href="http://www.hanban.pku.edu.cn/"
+test_deppth2019/04/12 10:54:09 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:14 mini_spider.go:237: href="http://lecture.pku.edu.cn/"
+test_deppth2019/04/12 10:54:14 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:19 mini_spider.go:237: href="http://www.pku-hall.com/"
+test_deppth2019/04/12 10:54:19 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:24 mini_spider.go:237: href="https://mp.weixin.qq.com/s/t-SLNv7WJy8BmISMSTvWcA"
+test_deppth2019/04/12 10:54:24 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:29 mini_spider.go:237: href="http://news.pku.edu.cn/xwzh/80f1b5da8e4a4a2fb8c9ce332cc7394d.htm"
+test_deppth2019/04/12 10:54:29 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:34 mini_spider.go:237: href="http://news.pku.edu.cn/xwzh/c21d1c0fa6fc43d8b5fb2232a8141a6b.htm"
+test_deppth2019/04/12 10:54:34 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:39 mini_spider.go:237: href="http://pkunews.pku.edu.cn/"
+test_deppth2019/04/12 10:54:39 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:44 mini_spider.go:237: href="http://pkunews.pku.edu.cn/ymdy/../xxfz/2018-05/03/content_302399.htm"
+test_deppth2019/04/12 10:54:44 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:49 mini_spider.go:237: href="http://news.pku.edu.cn/"
+test_deppth2019/04/12 10:54:49 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:54 mini_spider.go:237: href="http://news.pku.edu.cn/jxky/index.htm"
+test_deppth2019/04/12 10:54:54 mini_spider.go:237: 	
+test_deppth2019/04/12 10:54:59 mini_spider.go:237: href="http://news.pku.edu.cn/mtbdnew/index.htm"
+test_deppth2019/04/12 10:54:59 mini_spider.go:237: 	
+test_deppth2019/04/12 10:55:04 mini_spider.go:237: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=294767"
+test_deppth2019/04/12 10:55:04 mini_spider.go:237: 	
+test_deppth2019/04/12 10:55:09 mini_spider.go:237: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=293389"
+test_deppth2019/04/12 10:55:09 mini_spider.go:237: 	
+test_deppth2019/04/12 10:55:14 mini_spider.go:237: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=242665"
+test_deppth2019/04/12 10:55:14 mini_spider.go:237: 	
+test_deppth2019/04/12 10:55:19 mini_spider.go:237: href="http://pkunews.pku.edu.cn/zdlm/node_137.htm"
+test_deppth2019/04/12 10:55:19 mini_spider.go:237: 	
+test_deppth2019/04/12 10:55:24 mini_spider.go:237: href="http://pkunews.pku.edu.cn/xycf/node_2576.htm"
+test_deppth2019/04/12 10:55:24 mini_spider.go:237: 	
+test_deppth2019/04/12 10:55:29 mini_spider.go:237: href="http://pkunews.pku.edu.cn/zt/node_1237.htm"
+test_deppth2019/04/12 10:55:29 mini_spider.go:237: 	
+test_deppth2019/04/12 10:55:44 mini_spider.go:237: href="http://fresh.pku.edu.cn/"
+test_deppth2019/04/12 10:55:44 mini_spider.go:237: 	
+test_deppth2019/04/12 10:55:59 mini_spider.go:237: href="http://biye.pku.edu.cn/"
+test_deppth2019/04/12 10:55:59 mini_spider.go:237: 	
+test_deppth2019/04/12 16:11:19 mini_spider.go:271: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 16:11:19 mini_spider.go:271: 
+test_deppth2019/04/12 16:11:24 mini_spider.go:271: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 16:11:24 mini_spider.go:271: 	
+test_deppth2019/04/12 16:11:29 mini_spider.go:271: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=294767"
+test_deppth2019/04/12 16:11:29 mini_spider.go:271: 	
+test_deppth2019/04/12 16:11:34 mini_spider.go:271: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=293389"
+test_deppth2019/04/12 16:11:34 mini_spider.go:271: 	
+test_deppth2019/04/12 16:11:39 mini_spider.go:271: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=242665"
+test_deppth2019/04/12 16:11:39 mini_spider.go:271: 	
+test_deppth2019/04/12 16:11:44 mini_spider.go:271: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 16:11:44 mini_spider.go:271: 
+test_deppth2019/04/12 16:11:49 mini_spider.go:271: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 16:11:49 mini_spider.go:271: 
+test_deppth2019/04/12 16:11:55 mini_spider.go:271: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 16:11:55 mini_spider.go:271: 
+test_deppth2019/04/12 16:15:26 mini_spider.go:271: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 16:15:26 mini_spider.go:271: 
+test_deppth2019/04/12 16:16:01 mini_spider.go:271: href="http://its.pku.edu.cn/"
+test_deppth2019/04/12 16:16:01 mini_spider.go:271: 	
+test_deppth2019/04/12 16:16:06 mini_spider.go:271: href="http://mail.pku.edu.cn/"
+test_deppth2019/04/12 16:16:06 mini_spider.go:271: 	
+test_deppth2019/04/12 16:16:32 mini_spider.go:271: href="http://www.gotopku.cn/"
+test_deppth2019/04/12 16:16:32 mini_spider.go:271: 	
+test_deppth2019/04/12 16:16:37 mini_spider.go:271: href="https://admission.pku.edu.cn"
+test_deppth2019/04/12 16:16:37 mini_spider.go:271: 	
+test_deppth2019/04/12 16:16:52 mini_spider.go:271: href="http://gotopku.cn/programa/page/16.html"
+test_deppth2019/04/12 16:16:52 mini_spider.go:271: 	
+test_deppth2019/04/12 16:16:58 mini_spider.go:271: href="http://grs.pku.edu.cn/jzgz/dtxx1/"
+test_deppth2019/04/12 16:16:58 mini_spider.go:271: 	
+test_deppth2019/04/12 16:17:03 mini_spider.go:271: href="http://www.sfao.pku.edu.cn/"
+test_deppth2019/04/12 16:17:03 mini_spider.go:271: 	
+test_deppth2019/04/12 16:17:08 mini_spider.go:271: href="http://summer.pku.edu.cn/"
+test_deppth2019/04/12 16:17:08 mini_spider.go:271: 	
+test_deppth2019/04/12 16:20:23 mini_spider.go:273: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 16:20:23 mini_spider.go:273: 
+test_deppth2019/04/12 16:20:58 mini_spider.go:273: href="http://its.pku.edu.cn/"
+test_deppth2019/04/12 16:20:58 mini_spider.go:273: 	
+test_deppth2019/04/12 16:21:04 mini_spider.go:273: href="http://mail.pku.edu.cn/"
+test_deppth2019/04/12 16:21:04 mini_spider.go:273: 	
+test_deppth2019/04/12 16:21:29 mini_spider.go:273: href="http://www.gotopku.cn/"
+test_deppth2019/04/12 16:21:29 mini_spider.go:273: 	
+test_deppth2019/04/12 16:21:34 mini_spider.go:273: href="https://admission.pku.edu.cn"
+test_deppth2019/04/12 16:21:34 mini_spider.go:273: 	
+test_deppth2019/04/12 16:21:49 mini_spider.go:273: href="http://gotopku.cn/programa/page/16.html"
+test_deppth2019/04/12 16:21:49 mini_spider.go:273: 	
+test_deppth2019/04/12 16:21:54 mini_spider.go:273: href="http://grs.pku.edu.cn/jzgz/dtxx1/"
+test_deppth2019/04/12 16:21:54 mini_spider.go:273: 	
+test_deppth2019/04/12 16:21:59 mini_spider.go:273: href="http://www.sfao.pku.edu.cn/"
+test_deppth2019/04/12 16:21:59 mini_spider.go:273: 	
+test_deppth2019/04/12 16:22:04 mini_spider.go:273: href="http://summer.pku.edu.cn/"
+test_deppth2019/04/12 16:22:04 mini_spider.go:273: 	
+test_deppth2019/04/12 16:22:14 mini_spider.go:273: href="http://www.dean.pku.edu.cn/"
+test_deppth2019/04/12 16:22:14 mini_spider.go:273: 	
+test_deppth2019/04/12 16:22:19 mini_spider.go:273: href="http://grs.pku.edu.cn/"
+test_deppth2019/04/12 16:22:19 mini_spider.go:273: 	
+test_deppth2019/04/12 16:22:24 mini_spider.go:273: href="http://www.oir.pku.edu.cn/Category_35/Index.aspx"
+test_deppth2019/04/12 16:22:24 mini_spider.go:273: 	
+test_deppth2019/04/12 16:22:40 mini_spider.go:273: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 16:22:40 mini_spider.go:273: 	
+test_deppth2019/04/12 16:22:45 mini_spider.go:273: href="http://moocs.pku.edu.cn/"
+test_deppth2019/04/12 16:22:45 mini_spider.go:273: 	
+test_deppth2019/04/12 16:22:55 mini_spider.go:273: href="http://opencourse.pku.edu.cn/"
+test_deppth2019/04/12 16:22:55 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:00 mini_spider.go:273: href="http://gnhz.pku.edu.cn/"
+test_deppth2019/04/12 16:23:00 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:15 mini_spider.go:273: href="http://www.hanban.pku.edu.cn/"
+test_deppth2019/04/12 16:23:15 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:20 mini_spider.go:273: href="http://lecture.pku.edu.cn/"
+test_deppth2019/04/12 16:23:20 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:26 mini_spider.go:273: href="http://www.pku-hall.com/"
+test_deppth2019/04/12 16:23:26 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:31 mini_spider.go:273: href="https://mp.weixin.qq.com/s/t-SLNv7WJy8BmISMSTvWcA"
+test_deppth2019/04/12 16:23:31 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:36 mini_spider.go:273: href="http://news.pku.edu.cn/xwzh/80f1b5da8e4a4a2fb8c9ce332cc7394d.htm"
+test_deppth2019/04/12 16:23:36 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:42 mini_spider.go:273: href="http://news.pku.edu.cn/xwzh/c21d1c0fa6fc43d8b5fb2232a8141a6b.htm"
+test_deppth2019/04/12 16:23:42 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:47 mini_spider.go:273: href="http://pkunews.pku.edu.cn/"
+test_deppth2019/04/12 16:23:47 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:52 mini_spider.go:273: href="http://pkunews.pku.edu.cn/ymdy/../xxfz/2018-05/03/content_302399.htm"
+test_deppth2019/04/12 16:23:52 mini_spider.go:273: 	
+test_deppth2019/04/12 16:23:57 mini_spider.go:273: href="http://news.pku.edu.cn/"
+test_deppth2019/04/12 16:23:57 mini_spider.go:273: 	
+test_deppth2019/04/12 16:24:02 mini_spider.go:273: href="http://news.pku.edu.cn/jxky/index.htm"
+test_deppth2019/04/12 16:24:02 mini_spider.go:273: 	
+test_deppth2019/04/12 16:29:41 mini_spider.go:273: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 16:29:41 mini_spider.go:273: 
+test_deppth2019/04/12 16:30:16 mini_spider.go:273: href="http://its.pku.edu.cn/"
+test_deppth2019/04/12 16:30:16 mini_spider.go:273: 	
+test_deppth2019/04/12 16:30:21 mini_spider.go:273: href="http://mail.pku.edu.cn/"
+test_deppth2019/04/12 16:30:21 mini_spider.go:273: 	
+test_deppth2019/04/12 16:30:47 mini_spider.go:273: href="http://www.gotopku.cn/"
+test_deppth2019/04/12 16:30:47 mini_spider.go:273: 	
+test_deppth2019/04/12 16:30:52 mini_spider.go:273: href="https://admission.pku.edu.cn"
+test_deppth2019/04/12 16:30:52 mini_spider.go:273: 	
+test_deppth2019/04/12 16:31:08 mini_spider.go:273: href="http://gotopku.cn/programa/page/16.html"
+test_deppth2019/04/12 16:31:08 mini_spider.go:273: 	
+test_deppth2019/04/12 16:31:13 mini_spider.go:273: href="http://grs.pku.edu.cn/jzgz/dtxx1/"
+test_deppth2019/04/12 16:31:13 mini_spider.go:273: 	
+test_deppth2019/04/12 16:31:18 mini_spider.go:273: href="http://www.sfao.pku.edu.cn/"
+test_deppth2019/04/12 16:31:18 mini_spider.go:273: 	
+test_deppth2019/04/12 16:31:24 mini_spider.go:273: href="http://summer.pku.edu.cn/"
+test_deppth2019/04/12 16:31:24 mini_spider.go:273: 	
+test_deppth2019/04/12 16:34:27 mini_spider.go:272: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 16:34:27 mini_spider.go:272: 
+test_deppth2019/04/12 16:35:02 mini_spider.go:272: href="http://its.pku.edu.cn/"
+test_deppth2019/04/12 16:35:02 mini_spider.go:272: 	
+test_deppth2019/04/12 16:35:07 mini_spider.go:272: href="http://mail.pku.edu.cn/"
+test_deppth2019/04/12 16:35:07 mini_spider.go:272: 	
+test_deppth2019/04/12 16:35:32 mini_spider.go:272: href="http://www.gotopku.cn/"
+test_deppth2019/04/12 16:35:32 mini_spider.go:272: 	
+test_deppth2019/04/12 16:35:37 mini_spider.go:272: href="https://admission.pku.edu.cn"
+test_deppth2019/04/12 16:35:37 mini_spider.go:272: 	
+test_deppth2019/04/12 16:35:52 mini_spider.go:272: href="http://gotopku.cn/programa/page/16.html"
+test_deppth2019/04/12 16:35:52 mini_spider.go:272: 	
+test_deppth2019/04/12 16:35:57 mini_spider.go:272: href="http://grs.pku.edu.cn/jzgz/dtxx1/"
+test_deppth2019/04/12 16:35:57 mini_spider.go:272: 	
+test_deppth2019/04/12 16:36:02 mini_spider.go:272: href="http://www.sfao.pku.edu.cn/"
+test_deppth2019/04/12 16:36:02 mini_spider.go:272: 	
+test_deppth2019/04/12 16:36:07 mini_spider.go:272: href="http://summer.pku.edu.cn/"
+test_deppth2019/04/12 16:36:07 mini_spider.go:272: 	
+test_deppth2019/04/12 16:36:17 mini_spider.go:272: href="http://www.dean.pku.edu.cn/"
+test_deppth2019/04/12 16:36:17 mini_spider.go:272: 	
+test_deppth2019/04/12 16:36:23 mini_spider.go:272: href="http://grs.pku.edu.cn/"
+test_deppth2019/04/12 16:36:23 mini_spider.go:272: 	
+test_deppth2019/04/12 16:36:28 mini_spider.go:272: href="http://www.oir.pku.edu.cn/Category_35/Index.aspx"
+test_deppth2019/04/12 16:36:28 mini_spider.go:272: 	
+test_deppth2019/04/12 16:36:43 mini_spider.go:272: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 16:36:43 mini_spider.go:272: 	
+test_deppth2019/04/12 16:36:48 mini_spider.go:272: href="http://moocs.pku.edu.cn/"
+test_deppth2019/04/12 16:36:48 mini_spider.go:272: 	
+test_deppth2019/04/12 16:36:58 mini_spider.go:272: href="http://opencourse.pku.edu.cn/"
+test_deppth2019/04/12 16:36:58 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:03 mini_spider.go:272: href="http://gnhz.pku.edu.cn/"
+test_deppth2019/04/12 16:37:03 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:18 mini_spider.go:272: href="http://www.hanban.pku.edu.cn/"
+test_deppth2019/04/12 16:37:18 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:24 mini_spider.go:272: href="http://lecture.pku.edu.cn/"
+test_deppth2019/04/12 16:37:24 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:29 mini_spider.go:272: href="http://www.pku-hall.com/"
+test_deppth2019/04/12 16:37:29 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:35 mini_spider.go:272: href="https://mp.weixin.qq.com/s/t-SLNv7WJy8BmISMSTvWcA"
+test_deppth2019/04/12 16:37:35 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:41 mini_spider.go:272: href="http://news.pku.edu.cn/xwzh/80f1b5da8e4a4a2fb8c9ce332cc7394d.htm"
+test_deppth2019/04/12 16:37:41 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:46 mini_spider.go:272: href="http://news.pku.edu.cn/xwzh/c21d1c0fa6fc43d8b5fb2232a8141a6b.htm"
+test_deppth2019/04/12 16:37:46 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:51 mini_spider.go:272: href="http://pkunews.pku.edu.cn/"
+test_deppth2019/04/12 16:37:51 mini_spider.go:272: 	
+test_deppth2019/04/12 16:37:56 mini_spider.go:272: href="http://pkunews.pku.edu.cn/ymdy/../xxfz/2018-05/03/content_302399.htm"
+test_deppth2019/04/12 16:37:56 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:02 mini_spider.go:272: href="http://news.pku.edu.cn/"
+test_deppth2019/04/12 16:38:02 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:07 mini_spider.go:272: href="http://news.pku.edu.cn/jxky/index.htm"
+test_deppth2019/04/12 16:38:07 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:12 mini_spider.go:272: href="http://news.pku.edu.cn/mtbdnew/index.htm"
+test_deppth2019/04/12 16:38:12 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:17 mini_spider.go:272: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=294767"
+test_deppth2019/04/12 16:38:17 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:22 mini_spider.go:272: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=293389"
+test_deppth2019/04/12 16:38:22 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:27 mini_spider.go:272: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=242665"
+test_deppth2019/04/12 16:38:27 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:32 mini_spider.go:272: href="http://pkunews.pku.edu.cn/zdlm/node_137.htm"
+test_deppth2019/04/12 16:38:32 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:37 mini_spider.go:272: href="http://pkunews.pku.edu.cn/xycf/node_2576.htm"
+test_deppth2019/04/12 16:38:37 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:42 mini_spider.go:272: href="http://pkunews.pku.edu.cn/zt/node_1237.htm"
+test_deppth2019/04/12 16:38:42 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:47 mini_spider.go:272: href="http://fresh.pku.edu.cn/"
+test_deppth2019/04/12 16:38:47 mini_spider.go:272: 	
+test_deppth2019/04/12 16:38:52 mini_spider.go:272: href="http://biye.pku.edu.cn/"
+test_deppth2019/04/12 16:38:52 mini_spider.go:272: 	
+test_deppth2019/04/12 20:39:20 mini_spider.go:281: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 20:39:20 mini_spider.go:281: 
+test_deppth2019/04/12 20:40:02 mini_spider.go:281: href="http://its.pku.edu.cn/"
+test_deppth2019/04/12 20:40:02 mini_spider.go:281: 	
+test_deppth2019/04/12 20:40:08 mini_spider.go:281: href="http://mail.pku.edu.cn/"
+test_deppth2019/04/12 20:40:08 mini_spider.go:281: 	
+test_deppth2019/04/12 20:40:44 mini_spider.go:281: "https://www.pku.edu.cn/"
+test_deppth2019/04/12 20:40:44 mini_spider.go:281: 
+test_deppth2019/04/12 20:41:19 mini_spider.go:281: href="http://its.pku.edu.cn/"
+test_deppth2019/04/12 20:41:19 mini_spider.go:281: 	
+test_deppth2019/04/12 20:41:24 mini_spider.go:281: href="http://mail.pku.edu.cn/"
+test_deppth2019/04/12 20:41:24 mini_spider.go:281: 	
+test_deppth2019/04/12 20:41:51 mini_spider.go:281: href="http://www.gotopku.cn/"
+test_deppth2019/04/12 20:41:51 mini_spider.go:281: 	
+test_deppth2019/04/12 20:41:57 mini_spider.go:281: href="https://admission.pku.edu.cn"
+test_deppth2019/04/12 20:41:57 mini_spider.go:281: 	
+test_deppth2019/04/12 20:42:12 mini_spider.go:281: href="http://gotopku.cn/programa/page/16.html"
+test_deppth2019/04/12 20:42:12 mini_spider.go:281: 	
+test_deppth2019/04/12 20:42:17 mini_spider.go:281: href="http://grs.pku.edu.cn/jzgz/dtxx1/"
+test_deppth2019/04/12 20:42:17 mini_spider.go:281: 	
+test_deppth2019/04/12 20:42:23 mini_spider.go:281: href="http://www.sfao.pku.edu.cn/"
+test_deppth2019/04/12 20:42:23 mini_spider.go:281: 	
+test_deppth2019/04/12 20:42:28 mini_spider.go:281: href="http://summer.pku.edu.cn/"
+test_deppth2019/04/12 20:42:28 mini_spider.go:281: 	
+test_deppth2019/04/12 20:42:38 mini_spider.go:281: href="http://www.dean.pku.edu.cn/"
+test_deppth2019/04/12 20:42:38 mini_spider.go:281: 	
+test_deppth2019/04/12 20:42:43 mini_spider.go:281: href="http://grs.pku.edu.cn/"
+test_deppth2019/04/12 20:42:43 mini_spider.go:281: 	
+test_deppth2019/04/12 20:42:49 mini_spider.go:281: href="http://www.oir.pku.edu.cn/Category_35/Index.aspx"
+test_deppth2019/04/12 20:42:49 mini_spider.go:281: 	
+test_deppth2019/04/12 20:43:04 mini_spider.go:281: href="http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1"
+test_deppth2019/04/12 20:43:04 mini_spider.go:281: 	
+test_deppth2019/04/12 20:43:09 mini_spider.go:281: href="http://moocs.pku.edu.cn/"
+test_deppth2019/04/12 20:43:09 mini_spider.go:281: 	
+test_deppth2019/04/12 20:43:20 mini_spider.go:281: href="http://opencourse.pku.edu.cn/"
+test_deppth2019/04/12 20:43:20 mini_spider.go:281: 	
+test_deppth2019/04/12 20:43:25 mini_spider.go:281: href="http://gnhz.pku.edu.cn/"
+test_deppth2019/04/12 20:43:25 mini_spider.go:281: 	
+test_deppth2019/04/12 20:43:41 mini_spider.go:281: href="http://www.hanban.pku.edu.cn/"
+test_deppth2019/04/12 20:43:41 mini_spider.go:281: 	
+test_deppth2019/04/12 20:43:46 mini_spider.go:281: href="http://lecture.pku.edu.cn/"
+test_deppth2019/04/12 20:43:46 mini_spider.go:281: 	
+test_deppth2019/04/12 20:43:51 mini_spider.go:281: href="http://www.pku-hall.com/"
+test_deppth2019/04/12 20:43:51 mini_spider.go:281: 	
+test_deppth2019/04/12 20:43:57 mini_spider.go:281: href="https://mp.weixin.qq.com/s/t-SLNv7WJy8BmISMSTvWcA"
+test_deppth2019/04/12 20:43:57 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:02 mini_spider.go:281: href="http://news.pku.edu.cn/xwzh/80f1b5da8e4a4a2fb8c9ce332cc7394d.htm"
+test_deppth2019/04/12 20:44:02 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:07 mini_spider.go:281: href="http://news.pku.edu.cn/xwzh/c21d1c0fa6fc43d8b5fb2232a8141a6b.htm"
+test_deppth2019/04/12 20:44:07 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:12 mini_spider.go:281: href="http://pkunews.pku.edu.cn/"
+test_deppth2019/04/12 20:44:12 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:17 mini_spider.go:281: href="http://pkunews.pku.edu.cn/ymdy/../xxfz/2018-05/03/content_302399.htm"
+test_deppth2019/04/12 20:44:17 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:22 mini_spider.go:281: href="http://news.pku.edu.cn/"
+test_deppth2019/04/12 20:44:22 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:27 mini_spider.go:281: href="http://news.pku.edu.cn/jxky/index.htm"
+test_deppth2019/04/12 20:44:27 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:32 mini_spider.go:281: href="http://news.pku.edu.cn/mtbdnew/index.htm"
+test_deppth2019/04/12 20:44:32 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:37 mini_spider.go:281: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=294767"
+test_deppth2019/04/12 20:44:37 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:42 mini_spider.go:281: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=293389"
+test_deppth2019/04/12 20:44:42 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:48 mini_spider.go:281: href="http://www.pku.edu.cn/tzgg/tzggxx/index.htm?id=242665"
+test_deppth2019/04/12 20:44:48 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:53 mini_spider.go:281: href="http://pkunews.pku.edu.cn/zdlm/node_137.htm"
+test_deppth2019/04/12 20:44:53 mini_spider.go:281: 	
+test_deppth2019/04/12 20:44:58 mini_spider.go:281: href="http://pkunews.pku.edu.cn/xycf/node_2576.htm"
+test_deppth2019/04/12 20:44:58 mini_spider.go:281: 	
+test_deppth2019/04/12 20:45:03 mini_spider.go:281: href="http://pkunews.pku.edu.cn/zt/node_1237.htm"
+test_deppth2019/04/12 20:45:03 mini_spider.go:281: 	
+test_deppth2019/04/12 20:45:08 mini_spider.go:281: href="http://fresh.pku.edu.cn/"
+test_deppth2019/04/12 20:45:08 mini_spider.go:281: 	
+test_deppth2019/04/12 20:45:18 mini_spider.go:281: href="http://pkunews.pku.edu.cn/zdlm/gyyy.htm"
+test_deppth2019/04/12 20:45:18 mini_spider.go:281: 	
+test_deppth2019/04/12 20:45:24 mini_spider.go:281: href="http://video.sina.com.cn/m/xkrj_64030295.html"
+test_deppth2019/04/12 20:45:24 mini_spider.go:281: 	
+test_deppth2019/04/12 20:45:34 mini_spider.go:281: href="https://maps.pku.edu.cn/"
+test_deppth2019/04/12 20:45:34 mini_spider.go:281: 	

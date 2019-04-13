@@ -36,11 +36,3 @@ length of hash all url is1
 当前的种子URL: http://www.pku.org.cn/
 抓取的URL为－: href="http://www.pku.edu.cn"
  深度为－: 8
-length of hash all url is2
-length of hash all url is3
-length of hash all url is4
-length of hash all url is5
-length of hash all url is6
-length of hash all url is6
-length of hash all url is6
-length of hash all url is6
