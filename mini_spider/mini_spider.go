@@ -169,7 +169,7 @@ func tempgetUrl(ch chan *urlbase.Urls, ch_down chan string) {
 		    continue
 	    }
 
-	    check_pdf := regexp.MustCompile(`.*?\.pdf$`)
+	    check_pdf := regexp.MustCompile(`.*?.pdf"`)
 	    check_ans_pdf :=check_pdf.FindAllString(d, -1)
 	    if len(check_ans_pdf)>0{
 		    fmt.Printf("pdf网页 跳转\n")
@@ -177,6 +177,8 @@ func tempgetUrl(ch chan *urlbase.Urls, ch_down chan string) {
 	    }
 
 	    var idx_str int=strings.Index(d,"?")
+	    fmt.Printf("当前的URL: %s\n" ,d)
+	    fmt.Printf("带问号的 index %d \n",idx_str)
 	    var dd string =d
 	    if idx_str>=0{
 	    	//save d    cmp dd
@@ -196,17 +198,16 @@ func tempgetUrl(ch chan *urlbase.Urls, ch_down chan string) {
 	    check_ans3 := check3.FindAllString(string(file3), -1)
 
 	    if len(check_ans3)==0 && len(check_ans2)==0{
-	    	fmt.Printf("新的种子URL: %s\n" ,d)
+	    	// fmt.Printf("新的种子URL: %s\n" ,d)
 	    	key2 := d + "\n"	
 		    _,_=f2.Write([]byte(key2))
 		    var url urlbase.Urls
 		    url.Url = d
 		    url.Depth = deepth - 1
 		    ch <- &url
-		    continue
 	    }else if len(check_ans3)==0{
 	    	// continue
-	    	fmt.Printf("新的网页URL: %s\n" ,d)
+	    	// fmt.Printf("新的网页URL: %s\n" ,d)
 	    	key3 := d + "\n"
 	    	_,_=f3.Write([]byte(key3))
 	    }else{
